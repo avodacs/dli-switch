@@ -1,6 +1,6 @@
 {
   "name": "dli-switch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "DLI Web Power Switch Controller",
   "main": "index.js",
   "repository": {
