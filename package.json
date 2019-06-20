@@ -1,0 +1,19 @@
+{
+  "name": "dli-switch",
+  "version": "0.0.1",
+  "description": "DLI Web Power Switch Controller",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avodacs/dli-switch"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erickson G. Pece <erick@avodacs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "request": "^2.88.0"
+  }
+}
